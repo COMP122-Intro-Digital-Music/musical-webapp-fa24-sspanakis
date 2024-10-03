@@ -1,7 +1,8 @@
 [
   {
-    "name: : "sample 1",
-    "file" : "samples/ΑγνήΠαρθένε.mp3",
-    "bpm" : 120
+    "name": "Αγνή Παρθένε",
+    "file": "samples/ΑγνήΠαρθένε.mp3",
+    "bpm": "120",
+    "loop": "1m"
   }
 ]
