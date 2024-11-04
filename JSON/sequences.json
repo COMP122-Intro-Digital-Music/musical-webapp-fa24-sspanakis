@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "name": "First sequence",
+    "loop": "3:1:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:1:2.undefined",
+        "pitch": "A4",
+        "dur": "1n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Second sequence",
+    "loop": "3m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:3:1.undefined",
+        "pitch": "C#4",
+        "dur": "1n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Third sequence",
+    "loop": "3m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:3:1.undefined",
+        "pitch": "E4",
+        "dur": "1n.",
+        "vel": "1"
+      }
+    ]
+  }
+]
