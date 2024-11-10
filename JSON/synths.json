@@ -1,1 +1,53 @@
-[ ]
+[
+  {
+    "name": "1st Synth",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "0",
+      "portamento": "0.5",
+      "envelope": {
+        "attack": "0.5",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.5"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "triangle"
+      }
+    }
+  },
+  {
+    "name": "2nd Synth",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "0",
+      "portamento": "0.05",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "2",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "1"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fmsquare",
+        "harmonicity": "1",
+        "modulationType": "sine",
+        "modulationIndex": "2"
+      }
+    }
+  }
+]
